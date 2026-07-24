@@ -8,7 +8,7 @@
 # Commands:
 `whoami`: tell us who we are logged in as
 `\`: The root of file system
-`clear`: Clears your currently terminal windows
+`clear`: Cleans your currently terminal windows. Aynı zamanda control+l yaparak da silebilirisin.
 `cat`: Stands for Concatenate. Dosyalardakileri okumanı falan sağlar. Usage: cat *nameoffile* 
 `cp`: Copy command. Usage: cp *eskidosya yenidosya* 
 `sudo`: Root veya admin olarak işlem yapmanı sağlar.
