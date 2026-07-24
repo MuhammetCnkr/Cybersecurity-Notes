@@ -13,6 +13,14 @@
 3. Ability to chain programs together to perform complex tasks
 4. Avoid captive user interfaces (gui diyor burada)
 5. Configuration data stored in a text file (An example of such a file is the `/etc/passwd` file, which stores all users registered on the system.)
+# What is the components of linux?
+1. Bootloader 
+2. OS Kernel
+3. Daemons
+4. OS Shell
+5. Graphics server
+6. Window Manager
+7. Utilities
 
 # Commands
 - `pwd`: stands for print working directory tell us where we are at.
