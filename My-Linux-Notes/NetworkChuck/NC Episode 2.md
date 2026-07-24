@@ -1,4 +1,4 @@
-**Topic:** 
+**Topic:**  
 
 # Important:
 - Linux'ta her şey file haldedir. Mesela ls'in kendisi bir filedır.
@@ -13,3 +13,6 @@
 `cp`: Copy command. Usage: cp *eskidosya yenidosya* 
 `sudo`: Root veya admin olarak işlem yapmanı sağlar.
 `rm`: Stands for remove. Usage: rm *filename*
+`adduser`: Bu komut sayesinde yeni user eklersin. Usage: adduser supermc. Since it is in sbin, you have to be admin. Btw users which you added are in the /home directory.
+
+
