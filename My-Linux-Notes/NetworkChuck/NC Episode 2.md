@@ -15,21 +15,13 @@
 - etc: stands for etcetera, etsy. içinde senin sistem ayarların netweok ayarların  falan bulunur.
 
 # Commands:
-```js
-`whoami`: tell us who we are logged in as
 
-`\`: The root of file system
-
-`clear`: Cleans your currently terminal windows. Aynı zamanda control+l yaparak da silebilirisin.
-
-`cat`: Stands for Concatenate. Dosyalardakileri okumanı falan sağlar. Usage: cat *nameoffile* 
-
-`cp`: Copy command. Usage: cp *eskidosya yenidosya* 
-
-`sudo`: Root veya admin olarak işlem yapmanı sağlar.
-
-`rm`: Stands for remove. Usage: rm *filename*
-
-`adduser`: Bu komut sayesinde yeni user eklersin. Usage: adduser supermc. Since it is in sbin, you have to be admin. Btw users which you added are in the /home directory.
-`which`: Kullandığın komuttun kime ait olduğunu söyler /usr/bin or /bin gibi. Usage: which ls
-``` 
+- `whoami`: tell us who we are logged in as
+- `\`: The root of file system
+- `clear`: Cleans your currently terminal windows. Aynı zamanda control+l yaparak da silebilirisin.
+- `cat`: Stands for Concatenate. Dosyalardakileri okumanı falan sağlar. Usage: cat *nameoffile* 
+- `cp`: Copy command. Usage: cp *eskidosya yenidosya* 
+- `sudo`: Root veya admin olarak işlem yapmanı sağlar.
+- `rm`: Stands for remove. Usage: rm *filename*
+- `adduser`: Bu komut sayesinde yeni user eklersin. Usage: adduser supermc. Since it is in sbin, you have to be admin. Btw users which you added are in the /home directory.
+- `which`: Kullandığın komuttun kime ait olduğunu söyler /usr/bin or /bin gibi. Usage: which ls
