@@ -2,8 +2,17 @@
 **Tags:** #BasicCommandsForLinux 
 
 # What is Linux ?
-Actually it is a kernel which is a little man between the application and the os and the hardwares.
-The distrubition of linux kernel is a costumasized os since the linux is open-source
+- Actually it is a kernel which is a little man between the application and the os and the hardwares.
+- The distrubition of linux kernel is a costumasized os since the linux is open-source
+- The overall Android operating system that runs on smartphones and tablets is based on the Linux kernel, and because of this, Linux is the most widely installed operating system.
+# What is OS?
+- An OS is software that manages all of the hardware resources associated with our computer. That means that an OS manages the whole communication between software and hardware.
+# Linux follows five core principles?
+1. Everything is a file
+2. Small, single-purpose programs
+3. Ability to chain programs together to perform complex tasks
+4. Avoid captive user interfaces (gui diyor burada)
+5. Configuration data stored in a text file (An example of such a file is the `/etc/passwd` file, which stores all users registered on the system.)
 
 # Commands
 - `pwd`: stands for print working directory tell us where we are at.
