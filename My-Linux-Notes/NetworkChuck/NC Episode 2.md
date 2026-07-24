@@ -11,7 +11,8 @@
 - lib: more shared library files your system needs to boot
 - home: where we live users live
 - root: 
-- dev: stands for devices. İçinde senin driverların disklerin falan olabilir. Vda or Vda1 stands for virtual disk, Sda or Sda1 stands for fiziksel disk. ve bu arada bunlar da file şeklinde  
+- dev: stands for devices. İçinde senin driverların disklerin falan olabilir. Vda or Vda1 stands for virtual disk, Sda or Sda1 stands for fiziksel disk. ve bu arada bunlar da file şeklinde 
+- etc: stands for etcetera, etsy. içinde senin sistem ayarların netweok ayarların  falan bulunur.
 
 # Commands:
 ```js
