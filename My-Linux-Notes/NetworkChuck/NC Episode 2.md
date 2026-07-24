@@ -8,3 +8,4 @@
 `\`: The root of file system
 `clear`: Clears your currently terminal windows
 `cat`: Stands for Concatenate. Dosyalardakileri okumanı falan sağlar. Usage: cat *nameoffile* 
+`cp`: Copy commoand. Usage: cp *eskidosya yenidosya* 
