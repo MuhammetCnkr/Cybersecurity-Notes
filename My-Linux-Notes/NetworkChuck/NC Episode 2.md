@@ -24,4 +24,4 @@
 - `sudo`: Root veya admin olarak işlem yapmanı sağlar.
 - `rm`: Stands for remove. Usage: rm *filename*
 - `adduser`: Bu komut sayesinde yeni user eklersin. Usage: adduser supermc. Since it is in sbin, you have to be admin. Btw users which you added are in the /home directory.
-- `which`: Kullandığın komuttun kime ait olduğunu söyler /usr/bin or /bin gibi. Usage: which ls
+- `which`: Kullandığın komuttun kime ait olduğunu söyler /usr/bin or /bin gibi. Usage: which ls 
