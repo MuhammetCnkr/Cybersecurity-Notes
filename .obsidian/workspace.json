@@ -6,7 +6,6 @@
       {
         "id": "8e24a1c20540a582",
         "type": "tabs",
-        "dimension": 69.5583596214511,
         "children": [
           {
             "id": "5ba998fdbcde5dae",
@@ -20,23 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "NC Episode 2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ea0a33a115b64868",
-        "type": "tabs",
-        "dimension": 30.441640378548897,
-        "children": [
-          {
-            "id": "7a3ffcfa5f88a7f3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]

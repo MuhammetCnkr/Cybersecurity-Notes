@@ -13,7 +13,7 @@
 - **home:** where we live users live
 - **root**: 
 - **dev:** stands for devices. İçinde senin driverların disklerin falan olabilir. Vda or Vda1 stands for virtual disk, Sda or Sda1 stands for fiziksel disk. ve bu arada bunlar da file şeklinde 
-- **etc:** stands for etcetera, etsy. içinde senin sistem ayarlarını network ayarlarını falan bulundurur.
+- **etc:** stands for etcetera, etsy. içinde senin sistem ayarlarını network ayarlarını falan bulundurur. Mesela senin network ayarlarından ip mac vs bulunur
 
 # Commands:
 
