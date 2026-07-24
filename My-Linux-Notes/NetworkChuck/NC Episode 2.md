@@ -20,6 +20,8 @@
 - **mnt:** Bunda ise yine media ile aynı ama senin manual şekilde yapman lazım. Temporary mount point for regular filesystems.
 
 **Note** : A Linux terminal, also called a `shell` or command line, provides a text-based input/output (I/O) interface between users and the kernel for a computer system
+**Note**: The most commonly used shell in Linux is the `Bourne-Again Shell` (`BASH`), and is part of the GNU project. Besides Bash, there also exist other shells like [Tcsh/Csh](https://en.wikipedia.org/wiki/Tcsh), [Ksh](https://en.wikipedia.org/wiki/KornShell), [Zsh](https://en.wikipedia.org/wiki/Z_shell), [Fish](https://en.wikipedia.org/wiki/Friendly_interactive_shell) shell and others.
+
 # Commands:
 
 - `whoami`: Tell us who we are logged in as
