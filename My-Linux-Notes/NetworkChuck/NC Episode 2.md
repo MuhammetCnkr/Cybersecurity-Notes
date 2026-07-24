@@ -5,6 +5,13 @@
 - bin : bu ana dizinde olan binary'e stand eden. İçinde sistem tool dosyalarını barından bir dosya. i.e. ls, cp, rm
 - sbin : Bu da ana dizinde olan bin'e benzeyen ama superbin olduğu için adminlerin kullandığı komutları barındırır. i.e. adduser
 - usr: İçinde bin sbin vs çoğu şeyi ana dizinde olduğu gibi bulundurur. Sebebi     .
+- boot: İçinde boot dosyaları var.
+- tmp: Temprorary dosyalar var içinde.
+- var: log files and also web application related files
+- lib: more shared library files your system needs to boot
+- home: where we live users live
+- root: 
+- dev: stands for devices. İçinde senin driverların disklerin falan olabilir. Vda or Vda1 stands for virtual disk, Sda or Sda1 stands for fiziksel disk. ve bu arada bunlar da file şeklinde  
 
 # Commands:
 ```js
