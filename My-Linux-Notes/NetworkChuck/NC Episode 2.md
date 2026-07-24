@@ -9,4 +9,5 @@
 `clear`: Clears your currently terminal windows
 `cat`: Stands for Concatenate. Dosyalardakileri okumanı falan sağlar. Usage: cat *nameoffile* 
 `cp`: Copy commoand. Usage: cp *eskidosya yenidosya* 
-`suda`:
+`sudo`: Root veya admin olarak işlem yapmanı sağlar.
+`rm`: Stands for remove. Usage: rm *filename*
