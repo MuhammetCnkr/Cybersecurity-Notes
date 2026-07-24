@@ -19,6 +19,7 @@
 - **media:** Bir usb takıtığında otomatik olarak oraya file olarak düşer. External removable media devices such as USB drives are mounted here.
 - **mnt:** Bunda ise yine media ile aynı ama senin manual şekilde yapman lazım. Temporary mount point for regular filesystems.
 
+**Note** : A Linux terminal, also called a `shell` or command line, provides a text-based input/output (I/O) interface between users and the kernel for a computer system
 # Commands:
 
 - `whoami`: Tell us who we are logged in as
