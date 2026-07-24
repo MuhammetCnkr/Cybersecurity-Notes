@@ -1,6 +1,8 @@
 **Tarih:** 24-07-2026
 **Tags**: #DirectorySystem #BasicCommandsForLinux 
 
+# Distributions (Distros):
+1. **Debian** uses an Advanced Package Tool (`apt`) package management system to handle software updates and security patches. The package management system helps keep the system up-to-date and secure by automatically downloading and installing security updates as soon as they are available
 #  File System Hierarchy standard(FHS):
 - Linux'ta her şey file haldedir. Mesela ls'in kendisi bir filedır.
 - **bin:** bu ana dizinde olan binary'e stand eden. İçinde sistem tool dosyalarını barından bir dosya. i.e. ls, cp, rm
