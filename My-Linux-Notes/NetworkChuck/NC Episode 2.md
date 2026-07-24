@@ -1,7 +1,7 @@
 **Tarih:** 24-07-2026
 **Tags**: #DirectorySystem #BasicCommandsForLinux 
 
-# Main Directories:
+#  File System Hierarchy standard(FHS):
 - Linux'ta her şey file haldedir. Mesela ls'in kendisi bir filedır.
 - **bin:** bu ana dizinde olan binary'e stand eden. İçinde sistem tool dosyalarını barından bir dosya. i.e. ls, cp, rm
 - **sbin:** bu da ana dizinde olan bin'e benzeyen ama superbin olduğu için adminlerin kullandığı komutları barındırır. i.e. adduser
@@ -11,11 +11,11 @@
 - **var:** log files and also web application related files
 - **lib:** more shared library files your system needs to boot
 - **home:** where we live users live
-- **root**: 
+- **root**: The home directory for the root user.
 - **dev:** stands for devices. İçinde senin driverların disklerin falan olabilir. Vda or Vda1 stands for virtual disk, Sda or Sda1 stands for fiziksel disk. ve bu arada bunlar da file şeklinde 
 - **etc:** stands for etcetera, etsy. içinde senin sistem ayarlarını network ayarlarını falan bulundurur. Mesela senin network ayarlarından ip mac vs bulunur
-- **media:** Bir usb takıtığında otomatik olarak oraya file olarak düşer.
-- **mnt:** Bunda ise yine media ile aynı ama senin manual şekilde yapman lazım
+- **media:** Bir usb takıtığında otomatik olarak oraya file olarak düşer. External removable media devices such as USB drives are mounted here.
+- **mnt:** Bunda ise yine media ile aynı ama senin manual şekilde yapman lazım. Temporary mount point for regular filesystems.
 
 # Commands:
 
