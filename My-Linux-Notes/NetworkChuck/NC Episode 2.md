@@ -14,6 +14,8 @@
 - **root**: 
 - **dev:** stands for devices. İçinde senin driverların disklerin falan olabilir. Vda or Vda1 stands for virtual disk, Sda or Sda1 stands for fiziksel disk. ve bu arada bunlar da file şeklinde 
 - **etc:** stands for etcetera, etsy. içinde senin sistem ayarlarını network ayarlarını falan bulundurur. Mesela senin network ayarlarından ip mac vs bulunur
+- **media:** Bir usb takıtığında otomatik olarak oraya file olarak düşer.
+- **mnt:** Bunda ise yine media ile aynı ama senin manual şekilde yapman lazım
 
 # Commands:
 
