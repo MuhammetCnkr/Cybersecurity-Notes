@@ -4,7 +4,7 @@
 4. Çevre koruma: çevre kirliliğini önlemek için
 5. antifriz: motorda pas ve korozyon engeller, soğutma suyunun donmasını engeller, motorun daha vermli çalışmasını sağlar
 6. Derhal durdurma şar ve yağ lambası yanarsa, abs buna dahil değil
-7. Diğergamlık (özgecilik veya altruizm), ==bir kişinin hiçbir çıkar veya ödül beklemeden, kendi menfaatlerinden vazgeçerek başkalarının iyiliği için fedakarlıkta bulunmasıdır==.
+7. Diğergamlık (özgecilik veya altruizm), bir kişinin hiçbir çıkar veya ödül beklemeden, kendi menfaatlerinden vazgeçerek başkalarının iyiliği için fedakarlıkta bulunmasıdır.
 8. bekleme amacıyla yapılan duraklama en çok 5 dk
 9. Arabadan çok duman çıkıyorsa motor düzensiz çalıştığı kesin söylenir
 10. göğüz yaralnamsı olanlar oturuş pozisyonunda taşınmalı
@@ -16,3 +16,6 @@
 16. dayı hararet işareti geldi derhal dur orta şeritte olsan dahi
 17. koma bilinç kaybının en ileri durumudur
 18. motor çalışırken yağlamanın olup olmadığını yağ göstergesi sayesinden anlarsın
+19. ağızdan burna suni solunum : Ağız bölgesinin açılamadığı, ciddi şekilde yaralandığı, kanadığı veya zehirli madde bulaştığı durumlarda ağızdan buruna suni solunum uygulanır. Baş geriye eğilip çene kaldırılarak soluk yolu açılır, hastanın ağzı alt çene ile sıkıca kapatılır ve derin bir nefes burundan üflenerek göğsün kalkması sağlanır
+20. koma pozisyonu: Koma pozisyonu, bilinci kapalı ancak nefes almaya devam eden kişilerin solunum yolunu açık tutmak ve boğulma riskini önlemek için uygulanan güvenli yan yatış ilk yardım biçimidir. Bilinç kaybı, aşırı alkol veya ilaç alımı, epilepsi krizi ya da kafa travması gibi durumlarda tercih edilir
+21. şok pozisyonu : Şok pozisyonu, hasta sırt üstü yatırılıp bacakları 30 santim yukarı kaldırılarak hayati organlara kan akışını artırmak için uygulanır. Derhal 112 Acil Servis aranmalıdır.
