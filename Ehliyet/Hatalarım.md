@@ -29,3 +29,4 @@
 29. aküde elektrolit seviyesi düştüğünde saf su eklenir asit değil
 30. park etme işaret bilgisine göre direk dik olmadığın sürece yola bakıp bakmaması önemli değil
 31. motorsikletler 3 yaşından sonra 2 yılda bir kere muayne yapmalı
+32. burun kanıyorsa sırt üstü yatırıp geriye eğme ve 5 dakika sıkma yap
