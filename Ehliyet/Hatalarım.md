@@ -12,3 +12,4 @@
 12. 15 metre mesafede duraklamak yasaktır yerleşim yeri trafik işaretleri levhası
 13. yeşilden sarıya dönen ışık gördüğünde kırmızı yanmasını beklemelisin
 14. yürüme hızında yavaşlayarak geçerim eğer otobüsten yolcular indi karşıya geçebileceklerse
+15. yaya ve bisiklet araç sağ dönerken falan öndeyse öncelik onlarda haci
