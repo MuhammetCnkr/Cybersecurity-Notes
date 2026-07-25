@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ehliyet/Hatalarım.md",
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/Section 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hatalarım"
+              "title": "Section 6"
+            }
+          },
+          {
+            "id": "01ee398e2ed71873",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 279.5
   },
   "right": {
     "id": "118cba2ade09ec31",
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ehliyet/Hatalarım.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hatalarım"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ehliyet/Hatalarım.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hatalarım"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,21 +165,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ehliyet/Hatalarım.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hatalarım"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,19 +191,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ba998fdbcde5dae",
+  "active": "01ee398e2ed71873",
   "lastOpenFiles": [
-    "My-Linux-Notes/NetworkChuck/Prompt Description.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/Section 6.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/Prompt Description.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/NC Episode 2.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/NC Episode 1.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/Getting Help in Shell.md",
     "Ehliyet/Hatalarım.md",
     "Ehliyet",
-    "My-Linux-Notes/NetworkChuck/Getting Help in Shell.md",
-    "My-Linux-Notes/NetworkChuck/NC Episode 2.md",
-    "My-Linux-Notes/NetworkChuck/NC Episode 1.md",
     "Untitled.md",
     "TCP-3-Way-Handshake.md",
     "README.md",
     "Welcome.md",
-    "My-Linux-Notes/NetworkChuck",
+    "My-Linux-Notes/Linux Fundamentals by HTB",
     "My-Linux-Notes"
   ]
 }
