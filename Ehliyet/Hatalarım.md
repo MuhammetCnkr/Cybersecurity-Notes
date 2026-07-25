@@ -19,3 +19,13 @@
 19. ağızdan burna suni solunum : Ağız bölgesinin açılamadığı, ciddi şekilde yaralandığı, kanadığı veya zehirli madde bulaştığı durumlarda ağızdan buruna suni solunum uygulanır. Baş geriye eğilip çene kaldırılarak soluk yolu açılır, hastanın ağzı alt çene ile sıkıca kapatılır ve derin bir nefes burundan üflenerek göğsün kalkması sağlanır
 20. koma pozisyonu: Koma pozisyonu, bilinci kapalı ancak nefes almaya devam eden kişilerin solunum yolunu açık tutmak ve boğulma riskini önlemek için uygulanan güvenli yan yatış ilk yardım biçimidir. Bilinç kaybı, aşırı alkol veya ilaç alımı, epilepsi krizi ya da kafa travması gibi durumlarda tercih edilir
 21. şok pozisyonu : Şok pozisyonu, hasta sırt üstü yatırılıp bacakları 30 santim yukarı kaldırılarak hayati organlara kan akışını artırmak için uygulanır. Derhal 112 Acil Servis aranmalıdır.
+22. Duraklamak yasak durmak değil yasaklanan bölgede
+23. lastikteki ilk 3 rakan lastik taban genişliğini gösterir
+24. rot ayarı bozuk olduğunda ön lastikler içten ve dıştan aşınır
+25. gösterge panelinde kontak anahtarı yer almaz hava yastığı yer alır
+26. D100 devlet yolu anlamına gelir
+27. şiddetli baş yaralanmlarında hareket ettirmemeye çalışılmalı
+28. eğimli parklarda arabanın başı yola baksın
+29. aküde elektrolit seviyesi düştüğünde saf su eklenir asit değil
+30. park etme işaret bilgisine göre direk dik olmadığın sürece yola bakıp bakmaması önemli değil
+31. motorsikletler 3 yaşından sonra 2 yılda bir kere muayne yapmalı
