@@ -17,4 +17,5 @@
 - |`Desktop`|Directory name|
 ## `-la`:
 - However, we will not see everything that is in this folder. A directory can also have hidden files that start with a dot at the beginning of its name (e.g., `.bashrc` or `.bash_history`). Therefore, we need to use the command `ls -la` to `list all` files of a directory:
+- bu ls toolunda sen ls /var/mail yazarsan oraya navigate etmene gerek kalmadan oradakileri show edersin
 - 
