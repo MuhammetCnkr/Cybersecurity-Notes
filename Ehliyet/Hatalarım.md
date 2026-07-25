@@ -52,3 +52,4 @@ Bu soruda, yanıkların ciddiyetini belirleyen derecelerden en ağırı olan **
 32. burun kanıyorsa sırt üstü yatırıp geriye eğme ve 5 dakika sıkma yap
 33.  90 ile gidiyorsan 45 metre takip mesafesi
 34. kontrolsüz kavşaklarda ana kural, "bütün sürücülerin, kavşağa yaklaşırken kavşaktaki şartlara uyacak şekilde yavaşlamak, dikkatli olmak, geçiş hakkı olan araçlara ilk geçiş hakkını vermek zorunda" olmasıdır. Bu genel kuralın yanında, en temel ve belirleyici ilke **"sağdaki araca yol verme"** kuralıdır.
+35. Noterler tarafından yapılan satış veya devir işlemlerinin bildiriminden itibaren, kaç aylık süre içerisinde ilgili trafik tescil kuruluşu tarafından yeni malik adına araç tescil belgesi düzenlenir? : 1 ay
