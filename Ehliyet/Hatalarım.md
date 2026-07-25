@@ -5,3 +5,8 @@
 5. antifriz: motorda pas ve korozyon engeller, soğutma suyunun donmasını engeller, motorun daha vermli çalışmasını sağlar
 6. Derhal durdurma şar ve yağ lambası yanarsa, abs buna dahil değil
 7. Diğergamlık (özgecilik veya altruizm), ==bir kişinin hiçbir çıkar veya ödül beklemeden, kendi menfaatlerinden vazgeçerek başkalarının iyiliği için fedakarlıkta bulunmasıdır==.
+8. bekleme amacıyla yapılan duraklama en çok 5 dk
+9. Arabadan çok duman çıkıyorsa motor düzensiz çalıştığı kesin söylenir
+10. göğüz yaralnamsı olanlar oturuş pozisyonunda taşınmalı
+11. geçiş hakkı yayların ve araçların yolu kullanma hakkına denir geçiş üstünlüğü değil
+12. 15 metre mesafede duraklamak yasaktır yerleşim yeri trafik işaretleri levhası
