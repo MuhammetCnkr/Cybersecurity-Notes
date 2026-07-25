@@ -1,0 +1,1 @@
+1. Kalibi durean bir kişinin göz bebekleri genişler
