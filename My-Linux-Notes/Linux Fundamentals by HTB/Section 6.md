@@ -4,9 +4,8 @@
 
 # Commands:
 
-|            |                                                                                                                                    |
+| `whoami`   | Displays current username. In windows and linux                                                                                    |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| `whoami`   | Displays current username.                                                                                                         |
 | `id`       | Returns users identity                                                                                                             |
 | `hostname` | Sets or prints the name of current host system.                                                                                    |
 | `uname`    | Prints basic information about the operating system name and system hardware.                                                      |
