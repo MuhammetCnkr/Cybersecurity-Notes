@@ -10,3 +10,5 @@
 10. göğüz yaralnamsı olanlar oturuş pozisyonunda taşınmalı
 11. geçiş hakkı yayların ve araçların yolu kullanma hakkına denir geçiş üstünlüğü değil
 12. 15 metre mesafede duraklamak yasaktır yerleşim yeri trafik işaretleri levhası
+13. yeşilden sarıya dönen ışık gördüğünde kırmızı yanmasını beklemelisin
+14. yürüme hızında yavaşlayarak geçerim eğer otobüsten yolcular indi karşıya geçebileceklerse
