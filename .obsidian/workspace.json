@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Section 6"
             }
-          },
-          {
-            "id": "01ee398e2ed71873",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/Section 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Section 6"
             }
           },
           {
@@ -123,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/Section 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Section 6"
             }
           },
           {
@@ -165,19 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/Section 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Section 6"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01ee398e2ed71873",
+  "active": "5ba998fdbcde5dae",
   "lastOpenFiles": [
     "My-Linux-Notes/Linux Fundamentals by HTB/Section 6.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/Prompt Description.md",
