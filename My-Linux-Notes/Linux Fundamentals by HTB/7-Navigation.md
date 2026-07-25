@@ -20,5 +20,7 @@
 - bu ls toolunda sen ls /var/mail yazarsan oraya navigate etmene gerek kalmadan oradakileri show edersin
 ## `-i`:
 - bunun sayesinde dosyanın index numarasını görürsün. —officially known as an **inode** (index node)—is a unique integer assigned to every file and directory. It acts as a primary identifier for the operating system to track file metadata rather than its name
+## `-t`:
+- knk bu altındaki dosyları klasörleri en son modifiye edilene göre sıralar. kullanım `ls -t`.
 # `stat`:
 - knk bu da bir komut. This will display the inode number alongside detailed access rights and modification dates. Yani buda aklında bulunsun.
