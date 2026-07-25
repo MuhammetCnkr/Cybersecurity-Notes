@@ -4,7 +4,3 @@
 
 # Commands:
 
-
-
-
-builtin_command_fileSearch_fallbackSearch
