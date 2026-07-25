@@ -18,4 +18,7 @@
 ## `-la`:
 - However, we will not see everything that is in this folder. A directory can also have hidden files that start with a dot at the beginning of its name (e.g., `.bashrc` or `.bash_history`). Therefore, we need to use the command `ls -la` to `list all` files of a directory:
 - bu ls toolunda sen ls /var/mail yazarsan oraya navigate etmene gerek kalmadan oradakileri show edersin
-- 
+## `-i`:
+- bunun sayesinde dosyanın index numarasını görürsün. —officially known as an **inode** (index node)—is a unique integer assigned to every file and directory. It acts as a primary identifier for the operating system to track file metadata rather than its name
+# `stat`:
+- knk bu da bir komut. This will display the inode number alongside detailed access rights and modification dates. Yani buda aklında bulunsun.
