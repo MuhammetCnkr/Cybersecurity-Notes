@@ -21,3 +21,5 @@
 | `lsusb`    | Lists USB devices                                                                                                                  |
 | `lsof`     | Lists opened files.                                                                                                                |
 | `lspci`    | List PCI devices.                                                                                                                  |
+- **uname:** uname -a : kernel-name -s, nodename -s, kernel-release -v, machine -m, processor -p, hardware-platform -i, operating-system -o bunların hepsini ekrana yazdırır
+- **uname -r:** Suppose we want to print out the kernel release to search for potential kernel exploits quickly.
