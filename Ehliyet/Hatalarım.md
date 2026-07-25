@@ -1,3 +1,23 @@
+
+# Yanıklar:
+9 numaralı soru için açıklama 
+
+Bu soruda, yanıkların ciddiyetini belirleyen derecelerden en ağırı olan **3. derece (ağır) yanığın** temel özelliğini bulmamız isteniyor. Yanık dereceleri, derinin ne kadar derinine indiğini gösterir ve her derecenin kendine özgü belirtileri vardır. Soruyu doğru cevaplamak için 1., 2. ve 3. derece yanıkların temel farklarını bilmek gerekir.
+
+**Doğru Cevap: c) Yanık bölgesinde sinir harabiyetinin olması**
+
+Üçüncü derece yanıklar, derinin en derin katmanlarına, hatta altındaki yağ, kas ve kemik dokusuna kadar ulaşan en ciddi yanık türüdür. Bu derinlikteki bir hasar, derinin tüm katmanlarını (epidermis ve dermis) tamamen yok eder. Derinin içinde bulunan ve ağrı hissini beyne ileten sinir uçları da bu tahribat sırasında tamamen yanar ve işlevini yitirir. Bu nedenle, 3. derece yanığın merkezinde, şaşırtıcı bir şekilde, **ağrı hissi yoktur** çünkü sinirler harap olmuştur.
+
+**Diğer Seçenekler Neden Yanlış?**
+
+- **a) Deri bütünlüğünün bozulmaması ve derinin gergin olması:** Bu ifade, **1. derece yanıkları** tanımlar. Güneş yanığı gibi en hafif yanıklarda deri kızarır, gerginleşir ve hassaslaşır ancak derinin bütünlüğü bozulmaz, yani açık yara veya su toplaması görülmez. Bu nedenle bu seçenek yanlıştır.
+- **b) Kılcal damar uçları ve sinir uçlarının açık olması:** Bu durum, **2. derece yanıkların** en belirgin özelliğidir. Bu yanıklarda derinin üst tabakası hasar görmüş ve altındaki sinir uçları açığa çıkmıştır. Sinir uçları açıkta olduğu için hava teması bile şiddetli ağrıya neden olur. Ayrıca içi su dolu kabarcıklar (bül) oluşumu da bu evrede görülür. Bu seçenek en ağrılı yanık türünü tanımladığı için 3. derece yanıkla çelişir.
+- **d) Derinin kuru ve ağrılı olması:** "Ağrılı" kelimesi burada kilit noktadır. Ağrının olması, sinir uçlarının hala çalıştığını gösterir. Bu durum 1. ve 2. derece yanıklar için geçerlidir. 3. derece yanıklarda ise deri kuru, kösele gibi veya kömürleşmiş bir görünümde olabilir ancak en önemli ayırt edici özelliği ağrısız olmasıdır. Bu nedenle bu seçenek de yanlıştır.
+
+Özetle, ehliyet sınavında yanıklarla ilgili bir soru geldiğinde unutulmaması gereken en önemli bilgi şudur: Yanığın derinliği arttıkça ağrı azalır. Eğer bir yanık bölgesinde ağrı hissi yoksa, bu durum sinirlerin tamamen yandığını ve yanığın çok derin, yani **3. derece** olduğunu gösterir. Bu bilgi, ilk yardım müdahalesi açısından da hayati önem taşır.
+
+# Hatalar:
+
 1. Kalibi durean bir kişinin göz bebekleri genişler
 2. 0,50 promil karayolda otomobil süremez
 3. 30-200 duraklamak yasak
