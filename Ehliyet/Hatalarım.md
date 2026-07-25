@@ -53,3 +53,6 @@ Bu soruda, yanıkların ciddiyetini belirleyen derecelerden en ağırı olan **
 33.  90 ile gidiyorsan 45 metre takip mesafesi
 34. kontrolsüz kavşaklarda ana kural, "bütün sürücülerin, kavşağa yaklaşırken kavşaktaki şartlara uyacak şekilde yavaşlamak, dikkatli olmak, geçiş hakkı olan araçlara ilk geçiş hakkını vermek zorunda" olmasıdır. Bu genel kuralın yanında, en temel ve belirleyici ilke **"sağdaki araca yol verme"** kuralıdır.
 35. Noterler tarafından yapılan satış veya devir işlemlerinin bildiriminden itibaren, kaç aylık süre içerisinde ilgili trafik tescil kuruluşu tarafından yeni malik adına araç tescil belgesi düzenlenir? : 1 ay
+36. - **Radyatör:** Radyatör, soğutma sisteminin önemli bir parçasıdır ancak görevi sıcaklığı sabit tutmak değil, soğutmaktır. Motordan gelen sıcak soğutma suyunu, içindeki kanallar ve petekler sayesinde hava ile temas ettirerek ısısını düşürür. Yani radyatör, termostatın izin verdiği sıcak suyu soğutan bir ısı değiştiricidir; sıcaklığı düzenlemez, sadece düşürür.
+37. Termostat, motor soğutma suyu devresinde bir vana gibi çalışır. Motor ilk çalıştığında soğuk olduğu için, termostat kapalı kalarak soğutma suyunun radyatöre gitmesini engeller ve motorun hızla ideal çalışma sıcaklığına ulaşmasını sağlar.
+38.  Diferansiyel, motor gücünü tekerleklere ileten aktarma organlarının önemli bir parçasıdır ve çok özel görevleri vardır.
