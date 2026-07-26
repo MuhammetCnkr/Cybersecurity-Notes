@@ -56,3 +56,6 @@ Bu soruda, yanıkların ciddiyetini belirleyen derecelerden en ağırı olan **
 36. - **Radyatör:** Radyatör, soğutma sisteminin önemli bir parçasıdır ancak görevi sıcaklığı sabit tutmak değil, soğutmaktır. Motordan gelen sıcak soğutma suyunu, içindeki kanallar ve petekler sayesinde hava ile temas ettirerek ısısını düşürür. Yani radyatör, termostatın izin verdiği sıcak suyu soğutan bir ısı değiştiricidir; sıcaklığı düzenlemez, sadece düşürür.
 37. Termostat, motor soğutma suyu devresinde bir vana gibi çalışır. Motor ilk çalıştığında soğuk olduğu için, termostat kapalı kalarak soğutma suyunun radyatöre gitmesini engeller ve motorun hızla ideal çalışma sıcaklığına ulaşmasını sağlar.
 38.  Diferansiyel, motor gücünü tekerleklere ileten aktarma organlarının önemli bir parçasıdır ve çok özel görevleri vardır.
+39. kalp masajı cpr yaparken 5 cm yap 
+40. Şok, en basit tanımıyla, dolaşım sisteminin yaşamsal organlara (beyin, kalp, akciğerler vb.) yeterli miktarda kan gönderememesi durumudur.
+41. Önce güvenlik, sonra yardım çağırma ve müdahale ilk önce arabayı stop et
