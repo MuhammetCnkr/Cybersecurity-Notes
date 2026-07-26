@@ -5,6 +5,17 @@
 
 **Purpose:** The goal for this section is to learn how to filter content and handle the redirected output from previous commands. But before we dive into filtering, we need to become familiar with some essential tools and commands that are specifically designed to make filtering more efficient and powerful.
 
+# Usernames:
+- In Unix-like operating systems, the /etc/passwd file is a text-database that stores essential information about user accounts such as their username, groups, home directory, and more. To get the full list of users registered on the system, you can display this file using the cat command as follows: `cat /eyc/passwd`
+- Each line of the /etc/passwd file defines a user account and consists of 7 fields separated by colons (:):  `username:password:uid:gid:description:home:shell`
+1. username is the name of the user account.
+2. password is the password of the user account, which is usually displayed as an x for security reasons. Note that the actual password is stored in the /etc/shadow file.
+3. uid or user ID is a unique numerical identifier assigned to each user.
+4. gid or group ID is the numerical identifier of the user’s primary group.
+5. description is an optional string providing additional information about the user like their full name or contact information.
+6. home is the path of the user's home directory (e.g., /home/johndoe).
+7. shell is the path of the user’s default login shell (e.g., /bin/bash, /bin/zsh).
+
 # Commands:
 ## More:
 - Bu ve less genelde ya başlangıca bakmak ya da sona bakmak için kullanılır dosyanın
@@ -70,3 +81,7 @@ htb-student /HTB/bash
 ## Wc:
 - Last but not least, it will often be useful to know how many successful matches we have. To avoid counting the lines or characters manually, we can use the tool `wc`. With the "`-l`" option, we specify that only the lines are counted.
 - kullanmayı biliyorsun
+
+## Ss:
+- The ss command (Socket Statistics) is an important Linux utility used to display detailed information about network sockets. It helps analyze network connections, monitor open ports and troubleshoot connectivity issues efficiently. The command provides details about TCP, UDP and other socket types, including their states and associated processes. Due to its speed and efficiency, it is widely used as a modern replacement for [netstat](https://www.geeksforgeeks.org/linux-unix/netstat-command-linux/).
+- knk bu baya işe yarayan bir şey -l ile ilstening yapanları -4 ile ipv4 olanları falan ayarlayabiliyorsun.
