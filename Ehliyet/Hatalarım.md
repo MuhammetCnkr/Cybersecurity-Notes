@@ -59,3 +59,11 @@ Bu soruda, yanıkların ciddiyetini belirleyen derecelerden en ağırı olan **
 39. kalp masajı cpr yaparken 5 cm yap 
 40. Şok, en basit tanımıyla, dolaşım sisteminin yaşamsal organlara (beyin, kalp, akciğerler vb.) yeterli miktarda kan gönderememesi durumudur.
 41. Önce güvenlik, sonra yardım çağırma ve müdahale ilk önce arabayı stop et
+42. - **a) seçeneği:** Bu pozisyon **Koma Pozisyonu (Derlenme/İyileşme Pozisyonu)** olarak adlandırılır. Bilinci kapalı ancak solunumu ve nabzı olan kişilere uygulanır. Bu pozisyonun amacı, kişinin kusması durumunda kusmuğun soluk borusuna kaçmasını engellemek ve dilin geriye kayarak solunum yolunu tıkamasını önlemektir. Şok tedavisi için değil, solunum yolunu açık tutmak için kullanılır.
+  
+- **b) seçeneği:** Bu pozisyon **Yarı Oturur Pozisyon**'dur. Genellikle göğüs yaralanmaları, kalp krizi şüphesi veya solunum güçlüğü çeken hastalara uygulanır. Bu pozisyon, göğüs kafesinin daha rahat hareket etmesini sağlayarak nefes alıp vermeyi kolaylaştırır. Şok durumunda kan basıncı zaten düşük olduğu için kişiyi oturtmak, beyne giden kan akışını daha da azaltacağından tehlikelidir.
+1. bebek bak dinle şeyi 10 saniye
+2. **Ticari amaçla yük taşımacılığı yapan ve azami ağırlığı 3,5 tonu geçen araçların şoförlerinin, 24 saatlik herhangi bir süre içinde devamlı olarak kaç saatten fazla araç sürmesi yasaktır?** 4.5 saat
+3. muayne yoksa trafikten men
+4. Aralıklı olarak, yani fasılalı yanıp sönen kırmızı ışık, trafik işaret levhalarından **"DUR"** levhası ile birebir aynı anlama gelir. Bu ışığı gören bir sürücü, kavşağa veya durma çizgisine geldiğinde aracını mutlaka tam olarak durdurmak zorundadır. Bu eylem, sadece yavaşlamak değil, tekerleklerin hareketinin bir anlığına tamamen kesilmesi demektir.
+5. Bu ışık, **"YOL VER"** anlamı taşır. Sürücünün bu noktaya geldiğinde yavaşlaması ve dikkatli bir şekilde geçmesi gerektiğini bildirir. Mutlak bir durma zorunluluğu yoktur. Sadece, ana yoldan veya geçiş üstünlüğüne sahip başka bir araç geliyorsa ona yol vermek için durulur. Yol boş ise durmadan, yavaşlayarak geçilir.
