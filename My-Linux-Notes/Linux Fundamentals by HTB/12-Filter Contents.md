@@ -38,7 +38,7 @@
 ## Grep:
 - Bu arkadaşla mesela ilk olarak çıkan çıktıda istediğin bir şey varsa onu basmasını ayarlayabilirsin. Usage: `cat /etc/passwd | grep "/bin/bash"`burada çıktıda sadece /bin/bash ifadesi olanlar olacak
 - This is just one example of how grep can be applied to efficiently filter data based on predefined patterns. Another possibility is to exclude specific results. For this, the option "`-v`" is used with `grep`. In the next example, we exclude all users who have disabled the standard shell with the name "`/bin/false`" or "`/usr/bin/nologin`".
-- For this: `vat /etc/passwd | grep -v "false\|nologin"` 
+- For this: `vat /etc/passwd | grep -v "false\|nologin"` knk `\|`or anlamına geliyor
 
 ## Cut:
 - Specific results with different characters may be separated as delimiters. Here it is handy to know how to remove specific delimiters and show the words on a line in a specified position. One of the tools that can be used for this is `cut`. Therefore we use the option "`-d`" and set the delimiter to the colon character (`:`) and define with the option "`-f`" the position in the line we want to output.
