@@ -26,3 +26,5 @@
 - `find /etc/ -name *.conf 2>/dev/null | grep systemd` knk buradan çıkan sonucu grep'e veriyor o ise çıkan sonuçta systemd var mı diye bakıyor var olanları ekrana basıyor
 - **ANOTHER:** The redirections work, not only once. We can use the obtained results to redirect them to another program. For the next example, we will use the tool called `wc`, which should count the total number of obtained results.
 - `find /etc/ -name *.conf 2>/dev/null | grep systemd | wc -l` knk burada grep'ten çıkan sonucun kaç satır olduğunu ekrana basar.
+
+**Hint:** `grep -c installed`dersen bu arkadaş pipe ettiğin yerdeki installed olan şeyleri sayar parametreye bir şey vermeden kullanılmıyor bir şeyi say demen lazım. mesela `apt list | grep -c installed`dersen indirilen paket sayısını sana sayıp basar

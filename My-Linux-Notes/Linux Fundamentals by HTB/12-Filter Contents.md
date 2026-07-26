@@ -1,0 +1,72 @@
+**Date:** 26-07-2026
+**Tags:**
+
+**Intro:** There are two powerful tools for this - `more` and `less`. These are known as pagers, and they allow you to view the contents of a file interactively, one screen at a time. While both tools serve a similar purpose, they have some differences in functionality, which we'll touch on later.
+
+**Purpose:** The goal for this section is to learn how to filter content and handle the redirected output from previous commands. But before we dive into filtering, we need to become familiar with some essential tools and commands that are specifically designed to make filtering more efficient and powerful.
+
+# Commands:
+## More:
+- Bu ve less genelde ya başlangıca bakmak ya da sona bakmak için kullanılır dosyanın
+- The `/etc/passwd` file in Linux is like a phone directory for users on the system. It includes details such as the username, user ID, group ID, home directory, and the default shell they use. For this `cat /etc/passwd | more`
+- After we read the content using `cat` and redirected it to `more`, the already mentioned `pager` opens, and we will automatically start at the beginning of the file.
+- `q`ya basarak bu pager'dan ayrılabilirsin
+## Less:
+- Bu arkadaş *more* dan daha fazla özelliğe sahip eğer man page'e bakarsan
+- Bu arkadaş sana *more* ile benzer bir çıktı verir. Usage: `less /etc/passwd`
+- Bunda da *q* kullanarak kapatabilirsin bunda more'un aksine gördüğün output terminalde kalmaya devam etmeyecek sen more'da çıksan bile çıktı still orada olur ama bunda yok kardeş temporary
+## Head:
+- Bu arkadaş sayedinde by default file'ın ilk 10 satırını verir ama sen ilk satırını falan görmek istersen ayarlamalar yapabilirsin. Usage: `head /etc/passwd`
+
+## Tail: 
+- Bu arkadaş ise *head* in tam tersi ilk 10 değil son 10 satırı sana basar. Usage: `tail /etc/passwd` 
+
+## Sort:
+- Bu arkadaş sayesinde çıktıyı numerically or alphabetically sıralama yapabiliriz. Usage: `cat /etc/passwd | sort`
+
+## Grep:
+- Bu arkadaşla mesela ilk olarak çıkan çıktıda istediğin bir şey varsa onu basmasını ayarlayabilirsin. Usage: `cat /etc/passwd | grep "/bin/bash"`burada çıktıda sadece /bin/bash ifadesi olanlar olacak
+- This is just one example of how grep can be applied to efficiently filter data based on predefined patterns. Another possibility is to exclude specific results. For this, the option "`-v`" is used with `grep`. In the next example, we exclude all users who have disabled the standard shell with the name "`/bin/false`" or "`/usr/bin/nologin`".
+- For this: `vat /etc/passwd | grep -v "false\|nologin"` 
+
+## Cut:
+- Specific results with different characters may be separated as delimiters. Here it is handy to know how to remove specific delimiters and show the words on a line in a specified position. One of the tools that can be used for this is `cut`. Therefore we use the option "`-d`" and set the delimiter to the colon character (`:`) and define with the option "`-f`" the position in the line we want to output.
+- Usage: `cat /etc/passwd | grep -v "false\|nologin" | cut -d":"-f1`. Aşağıda roottan sonra mesela : var ondan sonrasını kesti ve ekrana öyle bastı
+- ```
+root
+sync
+postgres
+mrb3n
+cry0l1t3
+htb-student
+```
+
+## Tr:
+- Another possibility to replace certain characters from a line with characters defined by us is the tool `tr`. As the first option, we define which character we want to replace, and as a second option, we define the character we want to replace it with. In the next example, we replace the colon character with space.
+- Usage: `cat /etc/passwd | grep -v "false\|nologin" | tr ":" " "` burada iki noktayı boşlukla replace etti
+
+## Column:
+- Since search results can often have an unclear representation, the tool `column` is well suited to display such results in tabular form using the "`-t`."
+- Usage: `cat /etc/passwd | grep -v "false\|nologin" | tr ":" " " | column -t` burada t sayesinde tabular form diye belirtik o da tablo benzeri bir şey verdi. dene de gör
+
+## Awk:
+- As we may have noticed, the line for the user "`postgres`" has one column too many. To keep it as simple as possible to sort out such results, the (`g`)`awk` programming is beneficial, which allows us to display the first (`$1`) and last (`$NF`) result of the line.
+- `cat /etc/passwd | grep -v "false\|nologin" | tr ":" " " | awk '{print $1, $NF}'`  ```root /bin/bash sync /bin/sync postgres /bin/bash mrb3n /bin/bash cry0l1t3 /bin/bash htb-student /bin/bash``` bunlar satır satır burada yapamadım idare et
+
+## Sed:
+- The "`s`" flag at the beginning stands for the substitute command. Then we specify the pattern we want to replace. After the slash (`/`), we enter the pattern we want to use as a replacement in the third position. Finally, we use the "`g`" flag, which stands for replacing all matches.
+- Usage: ```
+```
+Muhammetcnkr@htb[/htb]$ cat /etc/passwd | grep -v "false\|nologin" | tr ":" " " | awk '{print $1, $NF}' | sed 's/bin/HTB/g'
+
+root /HTB/bash
+sync /HTB/sync
+postgres /HTB/bash
+mrb3n /HTB/bash
+cry0l1t3 /HTB/bash
+htb-student /HTB/bash
+```
+
+## Wc:
+- Last but not least, it will often be useful to know how many successful matches we have. To avoid counting the lines or characters manually, we can use the tool `wc`. With the "`-l`" option, we specify that only the lines are counted.
+- kullanmayı biliyorsun
