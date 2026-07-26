@@ -1,4 +1,6 @@
 
+**Date:** 25-07-2026
+**Tags:** 
 
 **regex:** regular expressions. Bu bir komut değil genel bir kısaltma.
 
