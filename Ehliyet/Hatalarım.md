@@ -67,3 +67,9 @@ Bu soruda, yanıkların ciddiyetini belirleyen derecelerden en ağırı olan **
 3. muayne yoksa trafikten men
 4. Aralıklı olarak, yani fasılalı yanıp sönen kırmızı ışık, trafik işaret levhalarından **"DUR"** levhası ile birebir aynı anlama gelir. Bu ışığı gören bir sürücü, kavşağa veya durma çizgisine geldiğinde aracını mutlaka tam olarak durdurmak zorundadır. Bu eylem, sadece yavaşlamak değil, tekerleklerin hareketinin bir anlığına tamamen kesilmesi demektir.
 5. Bu ışık, **"YOL VER"** anlamı taşır. Sürücünün bu noktaya geldiğinde yavaşlaması ve dikkatli bir şekilde geçmesi gerektiğini bildirir. Mutlak bir durma zorunluluğu yoktur. Sadece, ana yoldan veya geçiş üstünlüğüne sahip başka bir araç geliyorsa ona yol vermek için durulur. Yol boş ise durmadan, yavaşlayarak geçilir.
+6. kulak kanıyorsa kulak alta kalacak şekilde yatır
+7. güneş çarpması ilk önce beyni etkiler
+8. belirli kilometrelerde triger değişmeli marş dişlisi değil
+9. **sürükleme yöntemi:** Kazazedenin genellikle enkaz altından ve tünel gibi dar alanlardan çıkarılmasında kullanılır. Ayrıca ilk yardımcı, fiziksel güç kapasitesini de değerlendirmeli, iri ve kilolu kazazedeleri bu teknikle taşımalıdır.
+10. Asli kusur kazanın oluşumunda birincil derecede sorumlu olunan hatalardır. Bölünmüş yollarda veya tek yönlü yollarda **karşı şeridi ihlal etmek** (ters yöne girmek) affedilmeyen en ağır asli kusurlardan biridir. not hızının gerektirdiği şeritten gitmemek
+11. organ ve doku -> itfaiye -> zabıta araçları -> afet acil durun
