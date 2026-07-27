@@ -15,3 +15,5 @@
 |`delgroup`|Removes a group from the system.|
 |`passwd`|Changes user password.|
 
+# Su:
+- To run a command as the target user without starting an interactive shell, use the `-c`, `--command` option. For example, to invoke the [`ps`](https://linuxize.com/post/ps-command-in-linux/) command as root: `su -c "whoami" tyrion` `su -c "ps aux"` 
