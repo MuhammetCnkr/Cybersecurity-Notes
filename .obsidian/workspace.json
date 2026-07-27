@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My-Linux-Notes/Linux Fundamentals by HTB/15-User Management.md",
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/16-Package Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15-User Management"
+              "title": "16-Package Management"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My-Linux-Notes/Linux Fundamentals by HTB/15-User Management.md",
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/16-Package Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15-User Management"
+              "title": "Backlinks for 16-Package Management"
             }
           },
           {
@@ -186,8 +186,9 @@
   },
   "active": "5ba998fdbcde5dae",
   "lastOpenFiles": [
-    "My-Linux-Notes/Linux Fundamentals by HTB/14-Permission Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/15-User Management.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/16-Package Management.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/14-Permission Management.md",
     "My-Linux-Notes/İmages/Screenshot 2026-07-27 at 10.42.38.png",
     "My-Linux-Notes/İmages/Screenshot 2026-07-27 at 10.49.03.png",
     "My-Linux-Notes/İmages/Screenshot 2026-07-27 at 11.01.25.png",
