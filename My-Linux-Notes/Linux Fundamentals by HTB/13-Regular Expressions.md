@@ -24,3 +24,6 @@ grep -E "(my.*false)" /etc/passwd
 # Burada içinde hem my olan hem false olanı basar
 ```
 
+# RegEx:
+- Standart `grep` komutunda bazı özel karakterleri (örneğin `|`, `+`, `?`, `()`) tanıyabilmesi için önüne ters eğik çizgi (`\`) koyman gerekir (`\|` gibi). `grep -E` (ya da kısaca `egrep`) kullandığında ise bu karakterler **doğrudan özel anlamlarıyla** çalışır. Yani karmaşık arama kalıplarını kaçış karakteri (`\`) kalabalığı olmadan, çok daha temiz yazabilirsin.
+- ![[Screenshot 2026-07-27 at 10.42.38.png]]
