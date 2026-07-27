@@ -73,3 +73,4 @@ Bu soruda, yanıkların ciddiyetini belirleyen derecelerden en ağırı olan **
 9. **sürükleme yöntemi:** Kazazedenin genellikle enkaz altından ve tünel gibi dar alanlardan çıkarılmasında kullanılır. Ayrıca ilk yardımcı, fiziksel güç kapasitesini de değerlendirmeli, iri ve kilolu kazazedeleri bu teknikle taşımalıdır.
 10. Asli kusur kazanın oluşumunda birincil derecede sorumlu olunan hatalardır. Bölünmüş yollarda veya tek yönlü yollarda **karşı şeridi ihlal etmek** (ters yöne girmek) affedilmeyen en ağır asli kusurlardan biridir. not hızının gerektirdiği şeritten gitmemek
 11. organ ve doku -> itfaiye -> zabıta araçları -> afet acil durun
+12. boyun koltuk altı köprücük kemiği üzeri basınç noktalarıdır
