@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ehliyet/Hatalarım.md",
+                "file": "Ehliyet/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hatalarım"
+              "title": "Untitled"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "118cba2ade09ec31",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ehliyet/Hatalarım.md",
+                "file": "Ehliyet/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hatalarım"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -187,6 +186,8 @@
   },
   "active": "5ba998fdbcde5dae",
   "lastOpenFiles": [
+    "Ehliyet/Hatalarım.md",
+    "Ehliyet/Untitled.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/15-User Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/16-Package Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/14-Permission Management.md",
@@ -205,7 +206,6 @@
     "My-Linux-Notes/Linux Fundamentals by HTB/9-Editing Files.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/11-File Descriptors and Redirections.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/10-Find Files and Directories.md",
-    "Ehliyet/Hatalarım.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/8-Working with Files and Directories.md",
     "Ehliyet",
     "Untitled.md",
