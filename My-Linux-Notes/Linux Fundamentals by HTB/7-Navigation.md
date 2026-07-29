@@ -2,7 +2,10 @@
 Date: 2026-07-25 20:53
 category:
 tags:
+  - featuresofls
 Tools:
+  - ls
+  - stat
 ---
 **pwd:** Print Working Directory. It shows which directory you are
 

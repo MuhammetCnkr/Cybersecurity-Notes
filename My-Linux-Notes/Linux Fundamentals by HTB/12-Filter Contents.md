@@ -9,7 +9,7 @@ Tools:
 **Purpose:** The goal for this section is to learn how to filter content and handle the redirected output from previous commands. But before we dive into filtering, we need to become familiar with some essential tools and commands that are specifically designed to make filtering more efficient and powerful.
 
 # Usernames:
-- In Unix-like operating systems, the /etc/passwd file is a text-database that stores essential information about user accounts such as their username, groups, home directory, and more. To get the full list of users registered on the system, you can display this file using the cat command as follows: `cat /eyc/passwd`
+- In Unix-like operating systems, the /etc/passwd file is a text-database that stores essential information about user accounts such as their username, groups, home directory, and more. To get the full list of users registered on the system, you can display this file using the cat command as follows: `cat /etc/passwd`
 - Each line of the /etc/passwd file defines a user account and consists of 7 fields separated by colons (:):  `username:password:uid:gid:description:home:shell`
 1. username is the name of the user account.
 2. password is the password of the user account, which is usually displayed as an x for security reasons. Note that the actual password is stored in the /etc/shadow file.

@@ -3,6 +3,10 @@ Date: 2026-07-25 21:31
 category:
 tags:
 Tools:
+  - mv
+  - touch
+  - mkdir
+  - tree
 ---
 **Reminder:** Keep in mind that online research is a valuable part of the learning process—it’s not cheating. You’re not being tested right now, but rather building your knowledge. Searching for solutions online can expose you to different approaches and alternative methods, giving you a broader understanding of how things work and helping you discover the most efficient ways to solve problems.
 

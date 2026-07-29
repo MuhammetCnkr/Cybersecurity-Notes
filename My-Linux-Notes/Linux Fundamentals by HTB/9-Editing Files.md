@@ -2,7 +2,11 @@
 Date: 2026-07-26 10:41
 category:
 tags:
+  - texteditor
 Tools:
+  - nano
+  - cat
+  - vim
 ---
 # Nano:
 - to create and open a new file named `notes.txt` for this `nano notes.txt`

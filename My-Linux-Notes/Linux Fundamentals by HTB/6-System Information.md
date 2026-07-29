@@ -2,6 +2,12 @@
 Date: 2026-07-25 13:40
 category:
 tags:
+  - uname
+  - ss
+  - ps
+  - whoami
+  - id
+  - ifconfig
 Tools:
 ---
 # Commands:
