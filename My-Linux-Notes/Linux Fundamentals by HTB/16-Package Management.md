@@ -1,4 +1,9 @@
-
+---
+category: Package Management
+tags:
+  - Package
+tool: apt, git, dpkg
+---
 # What is package:
 - Packages are archives that contain binaries of software, configuration files, information about dependencies and keep track of updates and upgrades. The features that most package management systems provide are:
 1. Package downloading
