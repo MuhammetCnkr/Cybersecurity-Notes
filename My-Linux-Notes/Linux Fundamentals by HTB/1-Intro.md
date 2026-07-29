@@ -1,10 +1,12 @@
 ---
 Date: 2026-07-24 11:56
-category:
+category: Base of Linux
 tags:
-  - asf
-  - asdf
+  - ComponentofLinux
 Tools:
+  - pwd
+  - cd
+  - ls
 ---
 # What is Linux ?
 - Actually it is a kernel which is a little man between the application and the os and the hardwares.
