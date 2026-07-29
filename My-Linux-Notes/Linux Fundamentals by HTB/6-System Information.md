@@ -1,7 +1,9 @@
-
-**Date:** 25-07-2026
-**Tags:** 
-
+---
+Date: 2026-07-25 13:40
+category:
+tags:
+Tools:
+---
 # Commands:
 
 | `whoami`   | Displays current username. In windows and linux                                                                                    |

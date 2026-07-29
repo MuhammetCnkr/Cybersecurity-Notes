@@ -1,5 +1,9 @@
-
-
+---
+Date: 2026-07-27 10:44
+category:
+tags:
+Tools:
+---
 - Every file and directory has an owner (a user) and is associated with a group. The permissions for these files are defined for both the owner and the group, determining what actions—like reading, writing, or executing—are allowed. When you create a new file or directory, it automatically becomes "yours" and is associated with the group you belong to, similar to how a project within a company might default to your team’s oversight.
 
 # Execute:

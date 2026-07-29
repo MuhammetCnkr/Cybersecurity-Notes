@@ -1,7 +1,9 @@
-
-**Date:** 26-07-2026
-**Tags:** 
-
+---
+Date: 2026-07-26 10:41
+category:
+tags:
+Tools:
+---
 # Nano:
 - to create and open a new file named `notes.txt` for this `nano notes.txt`
 - Nano’s straightforward interface (also called "`pager`")

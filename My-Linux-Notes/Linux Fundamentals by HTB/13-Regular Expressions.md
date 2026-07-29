@@ -1,6 +1,8 @@
 ---
-Date:
+Date: 2026-07-27 10:04
+category:
 tags:
+Tools:
 ---
 
 | **Operators** | **Description**                                                                                                                                                             |

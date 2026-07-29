@@ -1,6 +1,9 @@
-**Tarih:** 24-07-2026
-**Tags**: #DirectorySystem #BasicCommandsForLinux 
-
+---
+Date: 2026-07-24 12:32
+category:
+tags:
+Tools:
+---
 # Distributions (Distros):
 1. **Debian** uses an Advanced Package Tool (`apt`) package management system to handle software updates and security patches. The package management system helps keep the system up-to-date and secure by automatically downloading and installing security updates as soon as they are available
 #  File System Hierarchy standard(FHS):

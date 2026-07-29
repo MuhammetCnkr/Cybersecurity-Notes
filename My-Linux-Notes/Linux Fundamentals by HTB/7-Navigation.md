@@ -1,7 +1,9 @@
-
-**Date:** 25-07-2026
-**Tags:** 
-
+---
+Date: 2026-07-25 20:53
+category:
+tags:
+Tools:
+---
 **pwd:** Print Working Directory. It shows which directory you are
 
 # ls:

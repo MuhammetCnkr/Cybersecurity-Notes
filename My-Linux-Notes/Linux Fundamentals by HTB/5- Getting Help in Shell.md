@@ -1,3 +1,9 @@
+---
+Date: 2026-07-24 21:38
+category:
+tags:
+Tools:
+---
 # Man:
 - One such method is using the `man` command, which displays the manual pages for commands and provides detailed information about their usage. Usage man *toolname*
 # Help:

@@ -1,6 +1,9 @@
-**Date:** 26-07-2026
-**Tags:**
-
+---
+Date: 2026-07-26 15:13
+category:
+tags:
+Tools:
+---
 **Intro:** There are two powerful tools for this - `more` and `less`. These are known as pagers, and they allow you to view the contents of a file interactively, one screen at a time. While both tools serve a similar purpose, they have some differences in functionality, which we'll touch on later.
 
 **Purpose:** The goal for this section is to learn how to filter content and handle the redirected output from previous commands. But before we dive into filtering, we need to become familiar with some essential tools and commands that are specifically designed to make filtering more efficient and powerful.
