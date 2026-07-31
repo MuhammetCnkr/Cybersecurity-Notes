@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My-Linux-Notes/Linux Fundamentals by HTB/18-Task Scheduling.md",
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/17-Service and Process Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18-Task Scheduling"
+              "title": "17-Service and Process Management"
             }
           }
         ]
@@ -188,10 +188,10 @@
   },
   "active": "0cd6e193c4920401",
   "lastOpenFiles": [
+    "My-Linux-Notes/Linux Fundamentals by HTB/18-Task Scheduling.md",
     "Screenshot 2026-07-31 at 14.00.01.png",
     "Screenshot 2026-07-31 at 13.55.41.png",
     "My-Linux-Notes/Linux Fundamentals by HTB/17-Service and Process Management.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/18-Task Scheduling.md",
     "Screenshot 2026-07-31 at 12.24.32.png",
     "Screenshot 2026-07-31 at 12.23.49.heic",
     "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",

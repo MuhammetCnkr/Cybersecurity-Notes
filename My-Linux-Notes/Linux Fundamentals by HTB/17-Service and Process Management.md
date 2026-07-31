@@ -15,8 +15,20 @@ Tools:
 - Knk ilk işlem bu boot process sırasında başlar ve ona Process ID (` PID`) derler. Linux sistemlerinde tüm işlemler ` PID` ile assign edilmiştir ve ` /proc/` altındadırlar. Bazıları Parent Process ID (` PPID`) ile gösterilir bu ise bu program başka bir program tarafından başlatıldığı için bunlara child processes denir
 
 # Systemctl: 
-- knk section 17'de bu anlatılıyor ben fazla bir şey anlamdım sonra buna bak lazım olursan
-- galiba çalışan tüm şeyleri falan listelemeye yarıyor falan
+- **Starting and Stoping a System Service in Linux:**
+1. `systemctl start <service_name>` o serivisi başlatır
+2. `systemctl stop <service_name>`o serivisi durdurur
+3. `systemctl status <service_name>`o servis hakkında bilgi verir
+## Options:
+1. **--type:** Filter output by unit type (service, socket, timer)
+2. **--all:** list all units including inactive ones
+3. **--failed:** Lİsts all units that have failed
+4. **--state:** Filter output by unit state (active, inactive, failed)
+5. **--user:** Manage user sevices instead of system services
+6. **-q:** Suppress output messages
+- **Restarting a Service:** `systemctl restart <service_name>` Restarts the Apache web server, applying any configuration or update changes.
+- **Reloading a Service:** Reloads Apache configuration without completely stopping the service, useful after minor config edits. `systemct reload <service_name>`
+- **Listing Unit Files:** `systemctl list-unit-files` Lists all available unit files on the system, showing which are enabled, disabled, or static.
 
 # Kill a Process:
 - knk bir process : Running, Waiting (waiting for an event or system resoruce), Stopped, Zombie (stopped but still has an entry in the process table) halinda olabilir.
