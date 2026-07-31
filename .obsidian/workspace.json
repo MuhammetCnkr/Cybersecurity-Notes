@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My-Linux-Notes/Linux Fundamentals by HTB/15-User Management.md",
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/17-Service and Process Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15-User Management"
+              "title": "17-Service and Process Management"
             }
           }
         ]
@@ -187,13 +187,15 @@
   },
   "active": "0cd6e193c4920401",
   "lastOpenFiles": [
-    "Templates/My Linux Template.md",
+    "Screenshot 2026-07-31 at 12.24.32.png",
+    "Screenshot 2026-07-31 at 12.23.49.heic",
+    "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/13-Regular Expressions.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/14-Permission Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/15-User Management.md",
+    "Templates/My Linux Template.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/17-Service and Process Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/16-Package Management.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/14-Permission Management.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/13-Regular Expressions.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/11-File Descriptors and Redirections.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/10-Find Files and Directories.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/9-Editing Files.md",
