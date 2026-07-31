@@ -20,6 +20,8 @@ Tools:
 7. shell is the path of the user’s default login shell (e.g., /bin/bash, /bin/zsh).
 
 # Commands:
+# Base64:
+- knk bu adam sayesinde base64 ile şifrelenmiş dosya veya texti normal hale getirirsin. Bunun için `base64 -d data.txt` kullanman yeterli buradaki -d decode anlamına geliyor
 ## More:
 - Bu ve less genelde ya başlangıca bakmak ya da sona bakmak için kullanılır dosyanın
 - The `/etc/passwd` file in Linux is like a phone directory for users on the system. It includes details such as the username, user ID, group ID, home directory, and the default shell they use. For this `cat /etc/passwd | more`
@@ -42,6 +44,7 @@ Tools:
 - Bu arkadaşla mesela ilk olarak çıkan çıktıda istediğin bir şey varsa onu basmasını ayarlayabilirsin. Usage: `cat /etc/passwd | grep "/bin/bash"`burada çıktıda sadece /bin/bash ifadesi olanlar olacak
 - This is just one example of how grep can be applied to efficiently filter data based on predefined patterns. Another possibility is to exclude specific results. For this, the option "`-v`" is used with `grep`. In the next example, we exclude all users who have disabled the standard shell with the name "`/bin/false`" or "`/usr/bin/nologin`".
 - For this: `vat /etc/passwd | grep -v "false\|nologin"` knk `\|`or anlamına geliyor
+- knk bir sembol aramak istiyorun mesela = bu olsun bundan kaç tane var bilmiyorun arka arkaya sen o satırı bulmak için `| grep -E "\={2,}"`bu sayede min 2 adet = içeren satırları gösterecek. `| grep -E "\=+"`birden fazla içerenleri arka arkaya gösterecek
 
 ## Cut:
 - Specific results with different characters may be separated as delimiters. Here it is handy to know how to remove specific delimiters and show the words on a line in a specified position. One of the tools that can be used for this is `cut`. Therefore we use the option "`-d`" and set the delimiter to the colon character (`:`) and define with the option "`-f`" the position in the line we want to output.
@@ -100,3 +103,7 @@ htb-student /HTB/bash
 - ![[Screenshot 2026-07-31 at 17.16.57.png]]
 - knk yukarıda sana verdiği pathleri tek tek denemek yerine cat gibi toola direkt verip hepsini ekrana basmasını sağlar.
 - bak ben bandit8 çözmek için şöyle yaptım : `find / -type f -name data.txt 2>/dev/null | grep -v "bandit7" | xargs cat` böyle yaptım bu sayede diğer pathlerde yani bandit7 olmayan yerlerdeki dosyaların okunup okunmadığını hemen gördüm baktım sonra bandit8 okunmuş. ` sort /home/bandit8/data.txt | uniq -c | grep -E "^ *1 "`yaptım ve cevabı aldım.
+
+
+# Strings:
+- knk bu adam sayesinde binary dosyada geçen human readable stringleri bulabiliyorsun. ` strings data.txt` yaparsan sana gösterir
