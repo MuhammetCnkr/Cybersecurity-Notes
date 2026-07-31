@@ -16,6 +16,7 @@ Tools:
 
 # Systemctl: 
 - knk section 17'de bu anlatılıyor ben fazla bir şey anlamdım sonra buna bak lazım olursan
+- galiba çalışan tüm şeyleri falan listelemeye yarıyor falan
 
 # Kill a Process:
 - knk bir process : Running, Waiting (waiting for an event or system resoruce), Stopped, Zombie (stopped but still has an entry in the process table) halinda olabilir.
