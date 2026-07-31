@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My-Linux-Notes/Linux Fundamentals by HTB/Untitled.md",
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "12-Filter Contents"
             }
           }
         ]
@@ -187,6 +187,8 @@
   },
   "active": "0cd6e193c4920401",
   "lastOpenFiles": [
+    "Screenshot 2026-07-31 at 17.16.57.png",
+    "My-Linux-Notes/Linux Fundamentals by HTB/Untitled.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/17-Service and Process Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/16-Package Management.md",
@@ -195,7 +197,6 @@
     "My-Linux-Notes/Linux Fundamentals by HTB/13-Regular Expressions.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/7-Navigation.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/6-System Information.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/Untitled.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/19-Network Services.md",
     "My-Linux-Notes/Images/Screenshot 2026-07-31 at 15.35.34.png",
     "My-Linux-Notes/Images/Screenshot 2026-07-31 at 15.37.19.png",
@@ -226,7 +227,6 @@
     "My-Linux-Notes/Images/Screenshot 2026-07-27 at 10.49.03.png",
     "My-Linux-Notes/Images",
     "Ehliyet Teorik Sınav",
-    "TCP-3-Way-Handshake.md",
     "My-Linux-Notes/Linux Fundamentals by HTB",
     "My-Linux-Notes"
   ]
