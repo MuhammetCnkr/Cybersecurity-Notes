@@ -88,3 +88,10 @@ htb-student /HTB/bash
 ## Ss:
 - The ss command (Socket Statistics) is an important Linux utility used to display detailed information about network sockets. It helps analyze network connections, monitor open ports and troubleshoot connectivity issues efficiently. The command provides details about TCP, UDP and other socket types, including their states and associated processes. Due to its speed and efficiency, it is widely used as a modern replacement for [netstat](https://www.geeksforgeeks.org/linux-unix/netstat-command-linux/).
 - knk bu baya işe yarayan bir şey -l ile ilstening yapanları -4 ile ipv4 olanları falan ayarlayabiliyorsun.
+
+
+
+# Sort ve Uniq Kullanımı(bandit):
+- knk senin elinde çok uzun bir log dosyası var sen bir defa geçen satırı bulmak istiyorsun bunun için `sort data.txt | uniq -c` yaparsan ilk önce tüm herşeyi alfabatik v.s. sıralamasını yapar bu kısım çok önemli çünkü uniq -c arka arkaya gelen aynı satırları sayabiliyor. Bundan sonra uniq -c aynı olan satırların kaç tane olduğunu başında sayı ve ardında satırı verir sana.
+- Bundan sonra belki sen bazı satırlardan 10 tane bazılarından 2 tane bazılarından 1 tane olduğunu görebilirsin eğer sen bundan sonra pipe yapıp grep'e verip sadece 1 olanı bul dersen elinde şifrenin içinde 1 olan da olabilir ya da tekrar sayısında 1 olanda olabilir bu durumda çıkmaz sokak
+- bundan sonra devreye regex giriyor tam bu sorunu çözmek için ` | grep -E '^ *1 '` kullanman lazım bu şu anlama geliyor şapka: satırın başından bak arana ifade satırın başında olmalı. * : knk bu işaret kendinden önceki karakterin sıfır ya da daha fazla kez tekrarlanmış olabileceğini söyler mesela bu durumda ondan önce space var yani satırın başında boşluk olada bilir omayada bilir anlımda. 1 : knk bu ise satırda tam 1 rakamını arar. birden sonraki boşluk ise 1 den sonra bir tane boşluk olması demek bunun sayesinde 10 101 sayılarını falan eliyorsun ve sadece 1 adet olan satırı elde ediyorsun
