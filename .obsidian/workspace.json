@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My-Linux-Notes/Linux Fundamentals by HTB/17-Service and Process Management.md",
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17-Service and Process Management"
+              "title": "Untitled"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "118cba2ade09ec31",
@@ -188,11 +187,18 @@
   },
   "active": "0cd6e193c4920401",
   "lastOpenFiles": [
+    "My-Linux-Notes/Linux Fundamentals by HTB/19-Network Services.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/Untitled.md",
+    "My-Linux-Notes/Images/Screenshot 2026-07-31 at 15.35.34.png",
+    "My-Linux-Notes/Images/Screenshot 2026-07-31 at 15.37.19.png",
+    "My-Linux-Notes/Images/Screenshot 2026-07-31 at 15.35.14.png",
+    "My-Linux-Notes/Images/Screenshot 2026-07-31 at 15.31.12.png",
+    "My-Linux-Notes/Images/Screenshot 2026-07-31 at 15.30.10.png",
     "My-Linux-Notes/Linux Fundamentals by HTB/18-Task Scheduling.md",
-    "Screenshot 2026-07-31 at 14.00.01.png",
-    "Screenshot 2026-07-31 at 13.55.41.png",
     "My-Linux-Notes/Linux Fundamentals by HTB/17-Service and Process Management.md",
-    "Screenshot 2026-07-31 at 12.24.32.png",
+    "My-Linux-Notes/Images/Screenshot 2026-07-31 at 14.00.01.png",
+    "My-Linux-Notes/Images/Screenshot 2026-07-31 at 13.55.41.png",
+    "My-Linux-Notes/Images/Screenshot 2026-07-31 at 12.24.32.png",
     "Screenshot 2026-07-31 at 12.23.49.heic",
     "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/13-Regular Expressions.md",
@@ -218,11 +224,9 @@
     "Ehliyet Teorik Sınav/Hatalarım.md",
     "My-Linux-Notes/Images/Screenshot 2026-07-27 at 10.42.38.png",
     "My-Linux-Notes/Images/Screenshot 2026-07-27 at 10.49.03.png",
-    "My-Linux-Notes/Images/Screenshot 2026-07-27 at 11.01.25.png",
     "My-Linux-Notes/Images",
     "Ehliyet Teorik Sınav",
     "TCP-3-Way-Handshake.md",
-    "README.md",
     "My-Linux-Notes/Linux Fundamentals by HTB",
     "My-Linux-Notes"
   ]
