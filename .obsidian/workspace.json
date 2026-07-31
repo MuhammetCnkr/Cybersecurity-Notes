@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My-Linux-Notes/Linux Fundamentals by HTB/Extra by Bandit.md",
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/20-Working with Web Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extra by Bandit"
+              "title": "20-Working with Web Services"
             }
           }
         ]
@@ -185,10 +185,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc2b854b643210b7",
+  "active": "0cd6e193c4920401",
   "lastOpenFiles": [
-    "My-Linux-Notes/Linux Fundamentals by HTB/Untitled.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/Extra by Bandit.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/20-Working with Web Services.md",
     "My-Linux-Notes/Images/Screenshot 2026-07-31 at 17.49.27.png",
     "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/9-Editing Files.md",
