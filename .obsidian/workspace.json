@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/Extra by Bandit.md",
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/20-Working with Web Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extra by Bandit"
+              "title": "20-Working with Web Services"
             }
           }
         ]
@@ -187,16 +187,23 @@
   },
   "active": "0cd6e193c4920401",
   "lastOpenFiles": [
+    "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/12-Filter Contents.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/13-Regular Expressions.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/20-Working with Web Services.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/20-Working with Web Services.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/11-File Descriptors and Redirections.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/15-User Management.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/18-Task Scheduling.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/19-Network Services.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/3-Intro.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/Extra by Bandit.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/19-Network Services.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/10-Find Files and Directories.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/19-Network Services.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/17-Service and Process Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/6-System Information.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/00-Öğrenme Haritası.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/18-Task Scheduling.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/3-Intro.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/1-Intro.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/20-Working with Web Services.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/Images/Screenshot 2026-07-31 at 17.49.27.png",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/Images/Screenshot 2026-07-31 at 17.16.57.png",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/Images/Screenshot 2026-07-31 at 15.37.19.png",
@@ -208,14 +215,9 @@
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/Images/Screenshot 2026-07-31 at 13.55.41.png",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/Images/Screenshot 2026-07-31 at 12.24.32.png",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/Images",
-    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/Extra by Bandit.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/20-Working with Web Services.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/16-Package Management.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/15-User Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/14-Permission Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/13-Regular Expressions.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/12-Filter Contents.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/11-File Descriptors and Redirections.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/10-Find Files and Directories.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/9-Editing Files.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/8-Working with Files and Directories.md",
@@ -223,8 +225,6 @@
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/5- Getting Help in Shell.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis/4-Prompt Description.md",
     "My-Linux-Notes/Linux Fundamentals by HTB - Gelistirilmis",
-    "My-Linux-Notes/Linux Fundamentals by HTB/Extra by Bandit.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
     "Screenshot 2026-07-31 at 12.23.49.heic",
     "Templates",
     "My-Linux-Notes/Images",
