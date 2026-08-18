@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/The Bitcoin Standard/Untitled.md",
+                "file": "Burslar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Burslar"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "118cba2ade09ec31",
@@ -190,7 +191,7 @@
   "active": "0cd6e193c4920401",
   "lastOpenFiles": [
     "My-Linux-Notes/Linux Fundamentals by HTB/Extra by Bandit.md",
-    "Crypto/The Bitcoin Standard/Untitled.md",
+    "Burslar.md",
     "Crypto/The Bitcoin Standard",
     "Crypto",
     "My-Linux-Notes/Linux Fundamentals by HTB/20-Working with Web Services.md",
