@@ -19,13 +19,17 @@ Tools:
 1. `systemctl start <service_name>` o serivisi başlatır
 2. `systemctl stop <service_name>`o serivisi durdurur
 3. `systemctl status <service_name>`o servis hakkında bilgi verir
+4. bunlar için openssh indirip ssh başlatabilirsin
+5. To add OpenSSH to the SysV script to tell the system to run this service after startup, we can link it with the following command: systemctl enable ssh : knk bu şekilde SysV scriptine yani başlangıçta otomatik başlatma kısmına ekleyebilirsin. Eğer check etmke istersen ps -aux | grep ssh yapıp when you reboot the system kontrol edersen sistemde çalışır olduğunu görürsün
+6. It is quite possible that the services do not start due to an error. To see the problem, we can use the tool `journalctl` to view the logs. journalctl -u ssh.service --no-pager
 ## Options:
-1. **--type:** Filter output by unit type (service, socket, timer)
-2. **--all:** list all units including inactive ones
-3. **--failed:** Lİsts all units that have failed
-4. **--state:** Filter output by unit state (active, inactive, failed)
-5. **--user:** Manage user sevices instead of system services
-6. **-q:** Suppress output messages
+1. systemctl list-units --type=service :: bu sayede servisleri listeleyebilirsin
+2. **--type:** Filter output by unit type (service, socket, timer)
+3. **--all:** list all units including inactive ones
+4. **--failed:** Lİsts all units that have failed
+5. **--state:** Filter output by unit state (active, inactive, failed)
+6. **--user:** Manage user sevices instead of system services
+7. **-q:** Suppress output messages
 - **Restarting a Service:** `systemctl restart <service_name>` Restarts the Apache web server, applying any configuration or update changes.
 - **Reloading a Service:** Reloads Apache configuration without completely stopping the service, useful after minor config edits. `systemct reload <service_name>`
 - **Listing Unit Files:** `systemctl list-unit-files` Lists all available unit files on the system, showing which are enabled, disabled, or static.
@@ -39,7 +43,7 @@ Tools:
 
 # Bacground a Process:
 - Sometimes it will be necessary to put the scan or process we just started in the background to continue using the current session to interact with the system or start other processes. As we have already seen, we can do this with the shortcut `[Ctrl + Z]`. As mentioned above, we send the `SIGTSTP` signal to the kernel, which suspends the process.
-- knk mesela bir yere ping atıyorsun ctrl z yaptığın zaman bu sursuruluyor sen ` jobs` yazarsen terminale neleri durdurduğunu falan görebilirsin. kısaca bu komutlar suspend edilir sonra çalıştırılmaz ama sen bunun arka planda çalışmasını istersen ` bg` komutunu kullanarak bunu arka plana koyabilirsin. 
+- knk mesela bir yere ping atıyorsun ctrl z yaptığın zaman bu susturuluyor sen ` jobs` yazarsen terminale neleri durdurduğunu falan görebilirsin. kısaca bu komutlar suspend edilir sonra çalıştırılmaz ama sen bunun arka planda çalışmasını istersen ` bg` komutunu kullanarak bunu arka plana koyabilirsin. 
 - başak bir seçenek ise sona & işareti koymak bunun sayesinde o komut bittiği zaman galiba gereksiz şeyleri görmeyiz ve sadece sonucu gösterir.
 
 
@@ -50,5 +54,5 @@ Tools:
 # Execute Multiple Commands:
 - knk bunlar Semicolon (;), (&&) ve (|).
 - knk bunlar arasındaki fark processin başarılı başarısız tamamşanıp tamamlanmasına bağlı.
-- Bu semicolon öncesindeki komutta hata olup olmasına bakmadım çalıştırır. Ardı ardına bir komut hata verse bile rahat şekilde çalıştırır. Usage: `echo '1'; ls MISSING_FILE; echo '3'` However, (&&) ise eğer bir komut hata verirse ondan sonrakileri çalıştırmaz. Usage: ` echo '1' && ls MISSING_FILE && echo '3'` 
+- Bu semicolon(;) öncesindeki komutta hata olup olmasına bakmadım çalıştırır. Ardı ardına bir komut hata verse bile rahat şekilde çalıştırır. Usage: `echo '1'; ls MISSING_FILE; echo '3'` However, (&&) ise eğer bir komut hata verirse ondan sonrakileri çalıştırmaz. Usage: ` echo '1' && ls MISSING_FILE && echo '3'` 
 - Pipes (`|`) depend not only on the correct and error-free operation of the previous processes but also on the previous processes' results.

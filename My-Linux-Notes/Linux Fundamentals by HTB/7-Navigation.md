@@ -23,8 +23,10 @@ Tools:
 ## `-la`:
 - However, we will not see everything that is in this folder. A directory can also have hidden files that start with a dot at the beginning of its name (e.g., `.bashrc` or `.bash_history`). Therefore, we need to use the command `ls -la` to `list all` files of a directory:
 - bu ls toolunda sen ls /var/mail yazarsan oraya navigate etmene gerek kalmadan oradakileri show edersin
+- Hani ls -la yaptığında ilk satır sonunda . sonraki satırda ise .. oluyor ya ilk . indicates the current directory we are currently in alttaki .. ise represents the parent directory yani bundan bir önceki directory cd .. oradan geliyor
+- But we also can search through the command history using the shortcut `[Ctrl] + [R]` and type some of the text that we are looking for.
 ## `-i`:
-- bunun sayesinde dosyanın index numarasını görürsün. —officially known as an **inode** (index node)—is a unique integer assigned to every file and directory. It acts as a primary identifier for the operating system to track file metadata rather than its name
+- bunun sayesinde dosyanın index numarasını görürsün. —officially known as an **inode** (index node)—is a unique integer assigned to every file and directory. It acts as a primary identifier for the operating system to track file metadata rather than its name. kullanım için ls -i yap veya ls -i | grep ile özelleştirebilirsin
 ## `-t`:
 - knk bu altındaki dosyları klasörleri en son modifiye edilene göre sıralar. kullanım `ls -t`.
 # `stat`:

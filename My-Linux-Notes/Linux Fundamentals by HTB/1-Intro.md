@@ -35,3 +35,4 @@ Tools:
 - `cd`: stands change directory. Usage: cd *nameofdirectory*.
 - `cd ..`:  it helps to go backwards. One time.
 - `cd ../..`:  2 times goes backwards.
+- cd - : bu durumda az önce hangi directorydeysen oraya gidersin

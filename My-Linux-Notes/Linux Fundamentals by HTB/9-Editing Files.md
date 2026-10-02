@@ -16,7 +16,7 @@ Tools:
 - bu arkadaş sayesinde galiba sadece read yapabiliyoruz.
 - **extra:** /etc/passwd burada senin password hashes ve bu hasheslarda genelde /etc/shadow da eğerki bunlara erişebilirsen passwordları kolaylıkla geçersin. (*privilege esclation opportunities*)
 # Vim:
-- It is open-source editor for all kind off ASCII text, just like Nana.
+- It is open-source editor for all kind off ASCII text, just like Nano.
 - When we have the Vim editor open, we can go into command mode by typing "`:`" and then typing "`q`" to close Vim.
 - Vim offers an excellent opportunity called `vimtutor` to practice and get familiar with the editor. Bu adam galiba sana vim kullanmayı öğretiyor gibi.
 ## Modes of Vim:
@@ -29,4 +29,3 @@ Tools:
 # My Vimtutor Notes: knk baya uzun ben şimdi bunu geçtim yaz bunu aklına
 - sağ-sol-yukarı-aşağı için respectively l-h-k-j
 - çıkış yapmak için bunu `:q!`yaz ve enter'a bas
-- 

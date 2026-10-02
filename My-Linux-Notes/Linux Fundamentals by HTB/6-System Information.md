@@ -29,5 +29,6 @@ Tools:
 | `lsusb`    | Lists USB devices                                                                                                                  |
 | `lsof`     | Lists opened files.                                                                                                                |
 | `lspci`    | List PCI devices.                                                                                                                  |
-- **uname:** uname -a : kernel-name -s, nodename -s, kernel-release -v, machine -m, processor -p, hardware-platform -i, operating-system -o bunların hepsini ekrana yazdırır
+- **uname:** uname -a : kernel-name -s, nodename -n, kernel-release -r, machine -m, processor -p, hardware-platform -i, operating-system -o bunların hepsini ekrana yazdırır. The `-a` flag will omit `-p` (processor type) and `-i` (hardware platform) if they are unknown.
 - **uname -r:** Suppose we want to print out the kernel release to search for potential kernel exploits quickly.
+- env : Linux ve Unix benzeri işletim sistemlerinde çevre değişkenlerini (environment variables) listelemek, değiştirmek veya geçici değişkenlerle bir programı çalıştırmak için kullanılır. Bununla hangi shell olduğunu falan anlayabilirsin env | grep SHELL. mail yerini home directorysini görebilirsin ssh bağlantısını falan baya şey var.

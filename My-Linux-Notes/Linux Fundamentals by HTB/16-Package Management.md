@@ -25,7 +25,7 @@ Tools:
 
 
 # Advanced Package Manager (APT):
-- Debian tabanlı linuxlar apt package manage kullanır. knk bir paket aslında bir dosya arşivi ve bu dosya baya .deb uzantılı dosyalar içeriyor. Normalde dpkg ile bunları indirebilirsin. Ama bazı programlar bazen başka programların olmasını grektiridiği için baya bir meşekat var dpkg ile indirmekt etam bu sırada bizim apt devreye giriyor ve hangi paketi indireceksen onun iççin lazım olan diğer paketleri de (dependencies) indiriyor.
+- Debian tabanlı linuxlar apt package manage kullanır. knk bir paket aslında bir dosya arşivi ve bu dosya baya .deb uzantılı dosyalar içeriyor. Normalde dpkg ile bunları indirebilirsin. Ama bazı programlar bazen başka programların olmasını grektiridiği için baya bir meşekat var dpkg ile indirmekt etam bu sırada bizim apt devreye giriyor ve hangi paketi indireceksen onun için lazım olan diğer paketleri de (dependencies) indiriyor.
 - Knk her bir linux distrosu software repositories kullanıyorlar ve bunları sıklıkla güncelliyorlar. Bazı şeyleri stable, testing, unstable olarak etiketlemesini yapıyorlar. Çoğu linux distrosu bu stable repositoryleri kullanıyorlar.` /etc/apt/sources.list`  adressine gideren burada göreceksin tavsiye ederim.
 - APT uses a database called the APT cache. This is used to provide information about packages installed on our system offline. We can search the APT cache, for example, to find all `Impacket`related packages. Usage: `apt-cache search impacket`
 - Daha fazla şeyler görmek istersen : ` apt-cache show impacket-scripts` 

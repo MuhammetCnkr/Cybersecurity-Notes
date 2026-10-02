@@ -48,7 +48,7 @@ Tools:
 
 ## Cut:
 - Specific results with different characters may be separated as delimiters. Here it is handy to know how to remove specific delimiters and show the words on a line in a specified position. One of the tools that can be used for this is `cut`. Therefore we use the option "`-d`" and set the delimiter to the colon character (`:`) and define with the option "`-f`" the position in the line we want to output.
-- Usage: `cat /etc/passwd | grep -v "false\|nologin" | cut -d":"-f1`. Aşağıda roottan sonra mesela : var ondan sonrasını kesti ve ekrana öyle bastı
+- Usage: `cat /etc/passwd | grep -v "false\|nologin" | cut -d ":" -f1`. Aşağıda roottan sonra mesela : var ondan sonrasını kesti ve ekrana öyle bastı. knk burada -f2 yaparsan sadece 2. column mesela -f4 yaparsan sadece 4. column ekrana yazar. -f1,3,4 yaparsan 1. 3. ve 4. columnları ekrana yazar
 - ```
 root
 sync
