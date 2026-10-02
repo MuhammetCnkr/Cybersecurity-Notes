@@ -107,3 +107,6 @@ htb-student /HTB/bash
 
 # Strings:
 - knk bu adam sayesinde binary dosyada geçen human readable stringleri bulabiliyorsun. ` strings data.txt` yaparsan sana gösterir
+
+# Base64:
+Base64 -d data.txt yaparsan içindeki veriyi decode eder.

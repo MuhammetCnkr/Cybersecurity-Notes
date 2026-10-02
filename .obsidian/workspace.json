@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My-Linux-Notes/Linux Fundamentals by HTB/19-Network Services.md",
+                "file": "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19-Network Services"
+              "title": "12-Filter Contents"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "118cba2ade09ec31",
@@ -191,27 +190,27 @@
   },
   "active": "0cd6e193c4920401",
   "lastOpenFiles": [
+    "My-Linux-Notes/Linux Fundamentals by HTB/11-File Descriptors and Redirections.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/10-Find Files and Directories.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/9-Editing Files.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/6-System Information.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/7-Navigation.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/8-Working with Files and Directories.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/13-Regular Expressions.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/5- Getting Help in Shell.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/20-Working with Web Services.md",
+    "My-Linux-Notes/Linux Fundamentals by HTB/19-Network Services.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/18-Task Scheduling.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/16-Package Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/15-User Management.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/1-Intro.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/17-Service and Process Management.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/19-Network Services.md",
     "Ehliyet Teorik Sınav/Hatalarım.md",
     "Ehliyet Teorik Sınav/Bilgiler.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/20-Working with Web Services.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/14-Permission Management.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/13-Regular Expressions.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/12-Filter Contents.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/11-File Descriptors and Redirections.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/7-Navigation.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/8-Working with Files and Directories.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/9-Editing Files.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/10-Find Files and Directories.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/3-Intro.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/6-System Information.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/4-Prompt Description.md",
-    "My-Linux-Notes/Linux Fundamentals by HTB/5- Getting Help in Shell.md",
     "My-Linux-Notes/Linux Fundamentals by HTB/Extra by Bandit.md",
     "Burslar.md",
     "Crypto/The Bitcoin Standard",
