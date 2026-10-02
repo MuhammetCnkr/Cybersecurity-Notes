@@ -21,3 +21,13 @@ Tools:
 - knk burada her şey yazıyor.
 
 **Systemd vs Corn:** The key difference between these two tools is how they are configured. With Systemd, you need to create a timer and services script that tells the operating system when to run the tasks. On the other hand, with Cron, you need to create a `crontab` file that tells the cron daemon when to run the tasks.
+
+
+
+My Understand :
+cron kullanımı : 30 2 * * *  /çalışıtılacak_dosya/deneme.sh :: Her gece 2.30'da
+``*/15 * * * * /check.sh`` her 15 dakikada bir çalıştırır
+``0 9 * * 1 /report.sh`` her pazartesi saat 9'da
+- `crontab -l` : Mevcut kullanıcının zamanlanmış görevlerini listeler.
+- `crontab -e` : Kullanıcının crontab dosyasını düzenler.
+- `/var/spool/cron/crontabs/` : Kullanıcıların crontab dosyalarının saklandığı dizin.
