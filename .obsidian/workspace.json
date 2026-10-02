@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "118cba2ade09ec31",
@@ -167,19 +166,9 @@
               "icon": "lucide-list",
               "title": "Outline of Section 6"
             }
-          },
-          {
-            "id": "11d82fdee3f91774",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
