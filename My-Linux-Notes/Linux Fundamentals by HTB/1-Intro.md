@@ -8,7 +8,7 @@ Tools:
   - cd
   - ls
 ---
-# What is Linux ?
+# What is Linux ?denemeee
 - Actually it is a kernel which is a little man between the application and the os and the hardwares.
 - The distrubition of linux kernel is a costumasized os since the linux is open-source
 - The overall Android operating system that runs on smartphones and tablets is based on the Linux kernel, and because of this, Linux is the most widely installed operating system.
