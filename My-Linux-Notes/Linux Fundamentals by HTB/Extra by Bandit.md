@@ -15,3 +15,4 @@ Tools:
 
 
 diff pass.new pass.old aradaki farklı line'ı ekrana yazar
+betülü seviyorum.
